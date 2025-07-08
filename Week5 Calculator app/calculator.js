@@ -42,7 +42,7 @@ function equalsBtnPressed() {
     case "/":
       finalTotal = value1 / value2;
       break;
-    case "*":
+    case "x":
       finalTotal = value1 * value2;
       break;
   }
